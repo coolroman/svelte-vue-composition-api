@@ -7,7 +7,7 @@ This is a sample project for https://github.com/vladilenm/vue-composition-api/tr
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd svelte-vue-composition-api
 npm install
 ```
 
